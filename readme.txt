@@ -9,4 +9,7 @@
 test dev
 master conflict
 
-issu-fix
+issue-fix
+bug test
+bug test2
+
